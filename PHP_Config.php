@@ -5,7 +5,7 @@
 
     define('DB_SERVER','localhost');
     define('DB_USERNAME','root');
-    define('DB_PASSWORD','');
+    define('DB_PASSWORD','pranitM@241101m');
     define('DB_NAME','login');
 
 
